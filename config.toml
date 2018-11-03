@@ -43,7 +43,7 @@ pygmentsUseClasses = true
 	workSection = "work"
 
 	# 404 Configuration
-	head404 = "Sorry, I can't find what you want."
+	head404 = "Stop poking around"
 	sub404 = "Back to <a href='/'>Home</a>."
 
 	# Color of your website's accent
