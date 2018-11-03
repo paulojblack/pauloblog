@@ -1,6 +1,3 @@
-[submodule "themes/minimal-bootstrap-hugo-theme"]
-	path = themes/minimal-bootstrap-hugo-theme
-	url = https://github.com/zwbetz-gh/minimal-bootstrap-hugo-theme.git
-[submodule "themes/yinwang"]
-	path = themes/yinwang
-	url = https://github.com/chinanf-boy/gohugo-theme-yinwang.git
+[submodule "themes/manis"]
+	path = themes/manis
+	url = https://github.com/yursan9/manis-hugo-theme
