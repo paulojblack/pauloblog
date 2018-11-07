@@ -11,6 +11,7 @@ https://atom.io/packages/remote-sync
 # Things I want to do
 - Build a `systips` tool in Go in the vein of `fortune` to log out useful miscellaneous system related tips upon shell open/profile refresh
 - Finally put my working machine dotfiles and setup scripts in working order
+- Set up traffic metrics for the site
 - Not abandon this blog
 
 
