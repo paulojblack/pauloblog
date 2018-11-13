@@ -1,7 +1,7 @@
 baseURL = "http://www.pauloblack.com"
 languageCode = "en-us"
 title = "PauloBlog"
-theme = "manis"
+theme = "tale"
 
 # Copyright notice. Note: You can use HTML tag here
 copyright = "&copy; 2018 Yurizal Susanto"
